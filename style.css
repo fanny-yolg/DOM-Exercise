@@ -1,0 +1,19 @@
+h1{
+    margin-top:0px;
+    padding: 30px;
+    text-align:center;
+    background-color:black;
+    color:red;
+}
+#btn{
+    background-color: blue;
+    color: white;
+}
+form { 
+    background-color:yellow;
+    padding:10px;
+    margin-top:0px;
+}
+#type-data{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
